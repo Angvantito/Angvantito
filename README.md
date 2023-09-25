@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Angvantito
+- 👋 Hi, We are @Wit.store.co
 - 👀 I’m interested in Jesus
-- 🌱 I’m currently learning Python, 3D design, Portuguese , 9th Grade , and Bible
+- 🌱 I’m currently learning Python, 3D design, Portuguese , Tech
 - 💞️ I’m looking to collaborate on be a Forerunner
-- 📫 How to reach me angelbefox@gmail.com
+- 📫 How to reach me @wit.store.co (Instagram)
 
 <!---
 Angvantito/Angvantito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
